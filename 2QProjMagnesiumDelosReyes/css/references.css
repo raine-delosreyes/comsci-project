@@ -1,0 +1,74 @@
+* {
+	font-family: Palatino Linotype;
+	color: #6d7973;
+}
+
+body {
+	background-color: #e5dace;
+}
+		
+.header img {
+	float: left;
+	width: 135px;
+	height: 135px;
+	margin-left: 20px;
+}
+
+.header h1 {
+	position: relative;
+	text-align: center;
+	top: 10px;
+	left: 10px;
+}
+			
+.invi-b {
+	background-color: #e5dace;
+	border: none;
+	border-radius: 8px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	color: #e5dace;
+	font-size: 16px;
+	width: 2.5%;
+	margin: 0.5%; 
+	float: center;
+}
+		
+.button {
+	background-color: #e7baa0;
+	border: none;
+	border-radius: 8px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	width: 15%;
+	margin: 0.5%; 
+	float: center; 
+}
+		
+.link-b {
+	text-decoration: none;
+}
+				
+footer {
+	text-align: left;
+}
+
+.contact {
+	float: left;
+    width: 200px;
+	height: 100px;
+    line-height: 50%;
+	text-indent: 50px;
+}
+
+.contact-info {
+	font-size: 12px;
+}
+
+.links {
+	text-decoration: none;
+	font-size: 14px;
+}
